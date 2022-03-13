@@ -1,8 +1,8 @@
-This is a mini IT project done by a group of 5 students.
+This is a mini IT project which is done using Django Framework.
 
-This project is about Dietary Advice Web Application, that focuses on :
+This project is about Dietary Advice Web Application, which focuses on :
 - providing dietary information which includes advice
 - calorie calculations 
-- a food database with custom foodinputs
+- creating food database with custom food inputs
 - meal planner
 - mood journal.
